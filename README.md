@@ -40,3 +40,4 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
 
 ## 📄 Resume
 [![View Resume](https://img.shields.io/badge/📄_View_Resume-2E86C1?style=for-the-badge&logo=github&logoColor=white)](https://xifirdavsix.github.io/resume/)
+[![Download PDF](https://img.shields.io/badge/⬇️_Download_PDF-27AE60?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://xifirdavsix.github.io/resume/resume.pdf)
