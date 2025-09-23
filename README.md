@@ -1,4 +1,4 @@
-# Firdavs Zarifboev
+# Firdavs Zarifboyev
 
 📍 Uzbekistan  
 📧 zarifboevfirdavs@gmail.com  
@@ -32,4 +32,11 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
 ---
 
 ## Education
-Backend development
+- **Backend Development Course (in progress)**  
+  Studying **Node.js, NestJS, MongoDB, Express**.  
+  Final project: **CRM system for student management**.
+
+---
+
+## 📄 Resume
+[![View Resume](https://img.shields.io/badge/📄_View_Resume-2E86C1?style=for-the-badge&logo=github&logoColor=white)](https://xifirdavsix.github.io/resume/)
