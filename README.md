@@ -1,7 +1,7 @@
 # Firdavs Zarifboyev
 
 📍 Uzbekistan  
-📞 +998 99 266 10 14
+📞 +998 99 266 10 14    
 📧 zarifboevfirdavs@gmail.com  
 💻 GitHub: [github.com/xIFIRDAVSIx](https://github.com/xIFIRDAVSIx)  
 ✈️ Telegram: @Firdavs_Zarifboyev
