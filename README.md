@@ -1,6 +1,7 @@
 # Firdavs Zarifboyev
 
 📍 Uzbekistan  
+📞 +998 99 266 10 14
 📧 zarifboevfirdavs@gmail.com  
 💻 GitHub: [github.com/xIFIRDAVSIx](https://github.com/xIFIRDAVSIx)  
 ✈️ Telegram: @Firdavs_Zarifboyev
@@ -18,6 +19,7 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
 - **Backend:** Node.js, NestJS, Express  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Postman  
+- **ORM:** Sequelize, TypeORM, Prisma 
 
 ---
 
