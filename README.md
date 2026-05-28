@@ -35,10 +35,12 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
 - **Movie Streaming Website** – Netflix-style platform for browsing and watching movie trailers.  
   - 📌 Stack: Next.js, React, TMDB API, CSS  
   - ✨ Features: movie search, trailer modal, dynamic movie pages, categories, responsive Netflix-like UI
+ 
+  - [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge)](https://your-site.com)
 ---
 
 ## 🎓 Education
-- **Backend Development Course (in progress)**  
+- **Backend Development Course**  
   Studying **Node.js, NestJS, MongoDB, Express**.  
   Final project: **CRM system for student management**.
 
