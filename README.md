@@ -36,7 +36,7 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
   - 📌 Stack: Next.js, React, TMDB API, CSS  
   - ✨ Features: movie search, trailer modal, dynamic movie pages, categories, responsive Netflix-like UI
  
-  - [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge)](https://your-site.com)
+  - [![View Website](https://img.shields.io/badge/🎬_MovieFlix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://movie-site-chi-flax.vercel.app/)
 ---
 
 ## 🎓 Education
