@@ -28,9 +28,13 @@ Specialized in **NestJS, Node.js, MongoDB**, and cloud-based solutions.
   - 📌 Stack: NestJS, MongoDB, GraphQL  
   - ✨ Features: authentication, CRUD, statistics  
 
-- **Telegram Bot Shop** – e-commerce bot with product catalog and cart.  
-  - 📌 Stack: Node.js, MongoDB, node-telegram-bot-api  
+- **Virlix Movies Bot** – Telegram bot for watching and managing movies.  
+  - 📌 Stack: NestJS, Telegraf, TypeScript  
+  - ✨ Features: movie catalog, admin panel, subscriptions check, add/delete movies
 
+- **Movie Streaming Website** – Netflix-style platform for browsing and watching movie trailers.  
+  - 📌 Stack: Next.js, React, TMDB API, CSS  
+  - ✨ Features: movie search, trailer modal, dynamic movie pages, categories, responsive Netflix-like UI
 ---
 
 ## 🎓 Education
